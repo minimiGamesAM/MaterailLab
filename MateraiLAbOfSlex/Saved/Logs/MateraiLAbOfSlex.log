@@ -1538,3 +1538,178 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.03.30-21.23.45:351][  0]LogFileCache: Scanning file cache for directory 'M:/Unreal_lEngine_projects/Project_ack003/MaterailLab/MateraiLAbOfSlex/Content/' took 0.03s
 [2025.03.30-21.23.45:428][  0]LogNNEDenoiser: Ray Tracing is not enabled, therefore NNEDenoiser is not registered!
 [2025.03.30-21.23.45:452][  0]LogPython: Using Python 3.11.8
+[2025.03.30-21.23.47:925][  0]LogPython: Display: No enabled plugins with python dependencies found, skipping
+[2025.03.30-21.23.48:001][  0]LogTextureGraphEngine: Initialising the TextureGraphEngine!
+[2025.03.30-21.23.48:036][  0]LogStreaming: Warning: Failed to read file 'Common/Selector.png' error.
+[2025.03.30-21.23.48:036][  0]LogSlate: Could not find file for Slate resource: Common/Selector.png
+[2025.03.30-21.23.48:101][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2025.03.30-21.23.48:257][  0]LogEditorDataStorage: Initializing
+[2025.03.30-21.23.48:262][  0]LogEditorDataStorage: Initialized
+[2025.03.30-21.23.48:329][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2025.03.30-21.23.48:335][  0]SourceControl: Revision control is disabled
+[2025.03.30-21.23.48:335][  0]LogUnrealEdMisc: Loading editor; pre map load, took 23.908
+[2025.03.30-21.23.48:336][  0]Cmd: MAP LOAD FILE="M:/Unreal_lEngine_projects/Project_ack003/MaterailLab/MateraiLAbOfSlex/Content/ThirdPerson/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.03.30-21.23.48:347][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2025.03.30-21.23.48:347][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.30-21.23.48:362][  0]LogAssetRegistry: Display: Triggering cache save on discovery complete
+[2025.03.30-21.23.48:372][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.30-21.23.48:375][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.03.30-21.23.49:829][  0]LogAssetRegistry: Display: Asset registry cache written as 38.7 MiB to M:/Unreal_lEngine_projects/Project_ack003/MaterailLab/MateraiLAbOfSlex/Intermediate/CachedAssetRegistry_*.bin
+[2025.03.30-21.23.50:371][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2025.03.30-21.23.50:371][  0]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.03.30-21.23.50:374][  0]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.03.30-21.23.50:374][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.30-21.23.50:374][  0]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.30-21.23.51:066][  0]LogWorldPartition: Display: WorldPartition initialize took 691.617 ms
+[2025.03.30-21.23.51:085][  0]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SK_Mannequin) ...
+[2025.03.30-21.23.51:129][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.03.30-21.23.51:169][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.03.30-21.23.51:169][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.03.30-21.23.51:170][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.139ms to complete.
+[2025.03.30-21.23.51:198][  0]LogUnrealEdMisc: Total Editor Startup Time, took 26.772
+[2025.03.30-21.23.51:424][  0]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.03.30-21.23.51:505][  0]LogSlate: The tab "LevelEditorToolBar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2025.03.30-21.23.51:664][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.30-21.23.51:784][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.30-21.23.51:904][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.30-21.23.52:009][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.30-21.23.52:041][  0]LogPakFile: Initializing PakPlatformFile
+[2025.03.30-21.23.52:042][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2025.03.30-21.23.52:043][  0]LogPakFile: Initializing PakPlatformFile
+[2025.03.30-21.23.52:044][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2025.03.30-21.23.52:044][  0]LogPakFile: Initializing PakPlatformFile
+[2025.03.30-21.23.52:045][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2025.03.30-21.23.52:045][  0]LogPakFile: Initializing PakPlatformFile
+[2025.03.30-21.23.52:046][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2025.03.30-21.23.52:047][  0]LogPakFile: Initializing PakPlatformFile
+[2025.03.30-21.23.52:048][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2025.03.30-21.23.52:048][  0]LogPakFile: Initializing PakPlatformFile
+[2025.03.30-21.23.52:049][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2025.03.30-21.23.52:050][  0]LogPakFile: Initializing PakPlatformFile
+[2025.03.30-21.23.52:051][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2025.03.30-21.23.52:051][  0]LogPakFile: Initializing PakPlatformFile
+[2025.03.30-21.23.52:052][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2025.03.30-21.23.52:052][  0]LogPakFile: Initializing PakPlatformFile
+[2025.03.30-21.23.52:053][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2025.03.30-21.23.52:054][  0]LogPakFile: Initializing PakPlatformFile
+[2025.03.30-21.23.52:054][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2025.03.30-21.23.52:574][  0]LogTurnkeySupport: Turnkey Device: Win64@DESKTOP-6S74SPF: (Name=DESKTOP-6S74SPF, Type=Computer, Status=Valid, MinAllowed=10.0.19041.0, MaxAllowed=, Current=10.0.19045.0, Flags="Device_InstallSoftwareValid")
+[2025.03.30-21.23.52:614][  0]LogSlate: Took 0.000653 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.03.30-21.23.52:623][  0]LogSlate: Took 0.000527 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.03.30-21.23.52:626][  0]LogSlate: Took 0.000444 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2025.03.30-21.23.52:628][  0]LogSlate: Took 0.000299 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.03.30-21.23.52:786][  0]LogSlate: Took 0.000809 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.03.30-21.23.53:140][  0]LogStall: Startup...
+[2025.03.30-21.23.53:144][  0]LogStall: Startup complete.
+[2025.03.30-21.23.53:156][  0]LogLoad: (Engine Initialization) Total time: 28.73 seconds
+[2025.03.30-21.23.53:736][  0]LogContentStreaming: Texture pool size now 600 MB
+[2025.03.30-21.23.53:736][  0]LogCsvProfiler: Display: Metadata set : streamingpoolsizemb="600"
+[2025.03.30-21.23.53:834][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.30-21.23.53:841][  0]LogPython: Display: Running start-up script C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py... started...
+[2025.03.30-21.23.53:943][  0]LogPython: registering <class 'ControlRigWorkflows.workflow_deformation_rig_preset.provider'>
+
+[2025.03.30-21.23.53:968][  0]LogPython: Display: Running start-up script C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py... took 127.438 ms
+[2025.03.30-21.23.54:404][  1]LogAssetRegistry: AssetRegistryGather time 0.3379s: AssetDataDiscovery 0.1391s, AssetDataGather 0.0474s, StoreResults 0.1514s. Wall time 18.2030s.
+	NumCachedDirectories 0. NumUncachedDirectories 1682. NumCachedFiles 7814. NumUncachedFiles 3.
+	BackgroundTickInterruptions 10.
+[2025.03.30-21.23.54:484][  1]LogSourceControl: Uncontrolled asset enumeration started...
+[2025.03.30-21.23.54:484][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000001 seconds (updated 0 objects)
+[2025.03.30-21.23.54:565][  1]LogNavigation: Warning: Exporting collision geometry with too many triangles (804432). This might cause performance and memory issues. Add a simple collision or change GeometryExportVertexCountWarningThreshold. See 'StaticMeshComponent /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_00155D07860E615102_1636165103.StaticMeshComponent0'.
+[2025.03.30-21.23.54:771][  2]LogSlate: Took 0.000624 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.03.30-21.23.54:774][  2]LogEOSSDK: LogEOS: SDK Config Platform Update Request Successful, Time: 10.935076
+[2025.03.30-21.23.54:776][  2]LogEOSSDK: LogEOSAnalytics: EOS SDK Analytics disabled for route [1].
+[2025.03.30-21.23.54:779][  2]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10.988897
+[2025.03.30-21.23.54:822][  2]LogStreaming: Display: FlushAsyncLoading(395): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.30-21.23.54:855][  2]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Material/CelShading/M_Cel.M_Cel
+[2025.03.30-21.23.54:857][  2]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/None.png' error.
+[2025.03.30-21.23.54:857][  2]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/None.png
+[2025.03.30-21.23.54:857][  2]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float1.png' error.
+[2025.03.30-21.23.54:857][  2]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float1.png
+[2025.03.30-21.23.54:857][  2]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Bool.png' error.
+[2025.03.30-21.23.54:857][  2]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Bool.png
+[2025.03.30-21.23.54:857][  2]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float2.png' error.
+[2025.03.30-21.23.54:857][  2]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float2.png
+[2025.03.30-21.23.54:857][  2]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RPY.png' error.
+[2025.03.30-21.23.54:857][  2]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RPY.png
+[2025.03.30-21.23.54:857][  2]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_XYZ.png' error.
+[2025.03.30-21.23.54:857][  2]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_XYZ.png
+[2025.03.30-21.23.54:857][  2]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RGB.png' error.
+[2025.03.30-21.23.54:857][  2]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RGB.png
+[2025.03.30-21.23.54:857][  2]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float4_RGBA.png' error.
+[2025.03.30-21.23.54:857][  2]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float4_RGBA.png
+[2025.03.30-21.23.54:857][  2]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float_Any.png' error.
+[2025.03.30-21.23.54:857][  2]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float_Any.png
+[2025.03.30-21.23.54:857][  2]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Texture.png' error.
+[2025.03.30-21.23.54:857][  2]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Texture.png
+[2025.03.30-21.23.54:857][  2]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeUnlit.png' error.
+[2025.03.30-21.23.54:857][  2]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeUnlit.png
+[2025.03.30-21.23.54:857][  2]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeDefaultLit.png' error.
+[2025.03.30-21.23.54:857][  2]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeDefaultLit.png
+[2025.03.30-21.23.54:857][  2]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Remove_16px.png' error.
+[2025.03.30-21.23.54:857][  2]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Remove_16px.png
+[2025.03.30-21.23.54:857][  2]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/WhiteBall.png' error.
+[2025.03.30-21.23.54:857][  2]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/WhiteBall.png
+[2025.03.30-21.23.54:857][  2]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/BaseToggle_16x.png' error.
+[2025.03.30-21.23.54:857][  2]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/BaseToggle_16x.png
+[2025.03.30-21.23.54:857][  2]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaskToggle_16x.png' error.
+[2025.03.30-21.23.54:857][  2]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_SinglePixel.png' error.
+[2025.03.30-21.23.54:857][  2]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaskToggle_16x.png
+[2025.03.30-21.23.54:858][  2]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_SinglePixel.png
+[2025.03.30-21.23.54:858][  2]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftTopRight.png' error.
+[2025.03.30-21.23.54:858][  2]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftTopRight.png
+[2025.03.30-21.23.54:858][  2]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopLeftBottom.png' error.
+[2025.03.30-21.23.54:858][  2]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopLeftBottom.png
+[2025.03.30-21.23.54:858][  2]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftBottomRight.png' error.
+[2025.03.30-21.23.54:858][  2]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftBottomRight.png
+[2025.03.30-21.23.54:858][  2]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopRightBottom.png' error.
+[2025.03.30-21.23.54:858][  2]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopRightBottom.png
+[2025.03.30-21.23.54:858][  2]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Top.png' error.
+[2025.03.30-21.23.54:858][  2]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Top.png
+[2025.03.30-21.23.54:858][  2]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Bottom.png' error.
+[2025.03.30-21.23.54:858][  2]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Bottom.png
+[2025.03.30-21.23.54:858][  2]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Left.png' error.
+[2025.03.30-21.23.54:858][  2]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Left.png
+[2025.03.30-21.23.54:858][  2]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Right.png' error.
+[2025.03.30-21.23.54:858][  2]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Right.png
+[2025.03.30-21.23.54:858][  2]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerAdd.png' error.
+[2025.03.30-21.23.54:858][  2]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerAdd.png
+[2025.03.30-21.23.54:858][  2]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Duplicate_40x.png' error.
+[2025.03.30-21.23.54:858][  2]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Duplicate_40x.png
+[2025.03.30-21.23.54:858][  2]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerRemove.png' error.
+[2025.03.30-21.23.54:858][  2]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerRemove.png
+[2025.03.30-21.23.54:869][  2]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2025.03.30-21.23.54:914][  2]LogTexture: Display: Waiting for textures to be ready 0/1 (/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1) ...
+[2025.03.30-21.23.55:617][  3]MaterialEditorStats: Texture samplers: 0/16
+[2025.03.30-21.23.55:617][  3]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.03.30-21.23.55:617][  3]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.30-21.23.55:617][  3]MaterialEditorStats: Shader Count: 0
+[2025.03.30-21.23.55:617][  3]MaterialEditorStats: Preshaders: 25  (27 param fetches, 36 ops)
+[2025.03.30-21.23.55:636][  3]LogSlate: Took 0.000679 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.03.30-21.23.55:913][  5]MaterialEditorStats: Base pass shader: 275 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.03.30-21.23.55:913][  5]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.03.30-21.23.55:913][  5]MaterialEditorStats: Texture samplers: 4/16
+[2025.03.30-21.23.55:913][  5]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.03.30-21.23.55:913][  5]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.30-21.23.55:913][  5]MaterialEditorStats: Shader Count: 2
+[2025.03.30-21.23.55:913][  5]MaterialEditorStats: Preshaders: 25  (27 param fetches, 36 ops)
+[2025.03.30-21.23.56:270][  6]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2025.03.30-21.23.56:913][  8]LogSourceControl: Uncontrolled asset enumeration finished in 2.428651 seconds (Found 7792 uncontrolled assets)
+[2025.03.30-21.23.56:924][  8]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 12.806067
+[2025.03.30-21.23.56:927][  8]LogEOSSDK: LogEOS: SDK Config Data - Watermark: -36188152
+[2025.03.30-21.23.56:927][  8]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12.806067, Update Interval: 348.366943
+[2025.03.30-21.23.57:923][ 11]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 404...3dd Access[Expires: 2025.03.30-23.23.56 Remaining: 7200.53] Refresh[Expires: 2025-09-26T14:06:56.610Z Remaining: 15525780.61] State: Valid
+[2025.03.30-21.23.58:275][ 12]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Received FUserAuthToken
+[2025.03.30-21.23.59:284][ 16]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Login complete: EOS_Success
+[2025.03.30-21.23.59:284][ 16]LogFab: Display: User logged in
+[2025.03.30-21.23.59:284][ 16]LogFab: Display: User client id: xyza7891REBVsEqSJRRNXmlS7EQHM459
+[2025.03.30-21.23.59:940][ 17]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[Friend], OperationName=[GetBlockList], Url=[<Redacted>], HttpStatus=[403], ErrorCode=[errors.com.epicgames.common.insufficient_scopes], NumericErrorCode=[1056], ErrorMessage=[Insufficient access scopes. Expected: [friends_list]], CorrId=[EOS-OJhHHpxySkqyoFXzO6YlDA-t6xYqeRYpEeOUOt6VKx8uA]
