@@ -1734,3 +1734,6 @@ Sampler Limit: 32
 [2025.03.30-21.58.01:912][982]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
 [2025.03.30-21.58.01:913][982]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
 [2025.03.30-21.59.20:672][276]LogDerivedDataCache: C:/Users/Nicolas/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.002 and deleted 0 files with total size 0 MiB and 1 empty folders. Scanned 0 files in 2 folders with total size 0 MiB.
+[2025.03.30-22.02.49:491][469]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 316.463501
+[2025.03.30-22.02.50:511][472]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.30-22.02.50:511][472]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 317.131439, Update Interval: 340.657990
