@@ -1733,3 +1733,4 @@ Sampler Limit: 32
 [2025.03.30-21.58.01:912][982]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
 [2025.03.30-21.58.01:912][982]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
 [2025.03.30-21.58.01:913][982]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
+[2025.03.30-21.59.20:672][276]LogDerivedDataCache: C:/Users/Nicolas/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.002 and deleted 0 files with total size 0 MiB and 1 empty folders. Scanned 0 files in 2 folders with total size 0 MiB.
