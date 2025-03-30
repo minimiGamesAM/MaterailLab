@@ -1737,3 +1737,196 @@ Sampler Limit: 32
 [2025.03.30-22.02.49:491][469]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 316.463501
 [2025.03.30-22.02.50:511][472]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.03.30-22.02.50:511][472]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 317.131439, Update Interval: 340.657990
+[2025.03.30-22.08.35:026][681]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 661.997681
+[2025.03.30-22.08.36:026][684]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.30-22.08.36:026][684]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 662.669495, Update Interval: 327.600342
+[2025.03.30-22.11.13:992][298]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.03.30-22.14.08:153][882]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 995.124146
+[2025.03.30-22.14.09:146][884]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.30-22.14.09:146][884]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 995.787781, Update Interval: 303.103729
+[2025.03.30-22.19.21:883][822]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1308.855469
+[2025.03.30-22.19.22:883][825]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.30-22.19.22:883][825]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1309.508789, Update Interval: 311.481049
+[2025.03.30-22.25.05:852][  2]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1652.825317
+[2025.03.30-22.25.06:854][  5]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.30-22.25.06:854][  5]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1653.491699, Update Interval: 332.615753
+[2025.03.30-22.29.32:245][580]MaterialEditorStats: Texture samplers: 0/16
+[2025.03.30-22.29.32:245][580]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.03.30-22.29.32:245][580]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.30-22.29.32:245][580]MaterialEditorStats: Shader Count: 0
+[2025.03.30-22.29.32:245][580]MaterialEditorStats: Preshaders: 25  (27 param fetches, 36 ops)
+[2025.03.30-22.29.32:301][583]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.03.30-22.29.32:301][583]MaterialEditorStats: Texture samplers: 0/16
+[2025.03.30-22.29.32:301][583]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.03.30-22.29.32:301][583]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.30-22.29.32:301][583]MaterialEditorStats: Shader Count: 1
+[2025.03.30-22.29.32:301][583]MaterialEditorStats: Preshaders: 25  (27 param fetches, 36 ops)
+[2025.03.30-22.29.32:322][584]MaterialEditorStats: Base pass shader: 275 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.03.30-22.29.32:322][584]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.03.30-22.29.32:322][584]MaterialEditorStats: Texture samplers: 4/16
+[2025.03.30-22.29.32:322][584]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.03.30-22.29.32:322][584]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.30-22.29.32:322][584]MaterialEditorStats: Shader Count: 2
+[2025.03.30-22.29.32:322][584]MaterialEditorStats: Preshaders: 25  (27 param fetches, 36 ops)
+[2025.03.30-22.29.41:247][110]LogMaterialEditor: Saving and Compiling material M_Cel
+[2025.03.30-22.29.41:552][110]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2025.03.30-22.29.41:772][110]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.03.30-22.29.41:793][110]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.30-22.29.41:861][110]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Material/CelShading/M_Cel] ([1] browsable assets)...
+[2025.03.30-22.29.41:880][110]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Material/CelShading/M_Cel.M_Cel]
+[2025.03.30-22.29.41:880][110]OBJ SavePackage: Finished generating thumbnails for package [/Game/Material/CelShading/M_Cel]
+[2025.03.30-22.29.41:880][110]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Material/CelShading/M_Cel" FILE="M:/Unreal_lEngine_projects/Project_ack003/MaterailLab/MateraiLAbOfSlex/Content/Material/CelShading/M_Cel.uasset" SILENT=true
+[2025.03.30-22.29.41:897][110]LogSavePackage: Moving output files for package: /Game/Material/CelShading/M_Cel
+[2025.03.30-22.29.41:898][110]LogSavePackage: Moving 'M:/Unreal_lEngine_projects/Project_ack003/MaterailLab/MateraiLAbOfSlex/Saved/M_CelFDBA3AA4421FAFF4AF3F399A90244396.tmp' to 'M:/Unreal_lEngine_projects/Project_ack003/MaterailLab/MateraiLAbOfSlex/Content/Material/CelShading/M_Cel.uasset'
+[2025.03.30-22.29.41:913][110]LogFileHelpers: InternalPromptForCheckoutAndSave took 120.573 ms (total: 206.264 ms)
+[2025.03.30-22.29.41:974][110]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.30-22.29.41:974][110]LogContentValidation: Enabled validators:
+[2025.03.30-22.29.41:974][110]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.30-22.29.41:974][110]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.30-22.29.41:974][110]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.30-22.29.41:974][110]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.30-22.29.41:974][110]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.30-22.29.41:974][110]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.30-22.29.41:974][110]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2025.03.30-22.29.41:974][110]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2025.03.30-22.29.41:974][110]AssetCheck: /Game/Material/CelShading/M_Cel Validating asset
+[2025.03.30-22.30.21:974][136]LogContentBrowser: Deferred new asset file creation: M_Cel_Inst
+[2025.03.30-22.30.22:004][136]LogContentBrowser: Creating deferred item: M_Cel_Inst
+[2025.03.30-22.30.22:034][137]LogContentBrowser: Renaming the item being created (Deferred Item: M_Cel_Inst).
+[2025.03.30-22.30.33:353][903]LogContentBrowser: Attempting asset rename: M_Cel_Inst -> M_Cel_GlobalInst
+[2025.03.30-22.30.33:356][903]LogContentBrowser: End creating deferred item M_Cel_Inst
+[2025.03.30-22.30.45:458][196]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Material/CelShading/M_Cel_GlobalInst.M_Cel_GlobalInst
+[2025.03.30-22.30.45:464][196]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.03.30-22.30.46:456][196]LogSlate: Took 0.000604 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.03.30-22.31.14:058][252]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.30-22.31.20:075][488]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2027.047119
+[2025.03.30-22.31.20:198][493]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.30-22.31.20:198][493]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2027.145264, Update Interval: 330.008240
+[2025.03.30-22.32.09:876][339]LogSlate: Window 'M_Cel_GlobalInst' being destroyed
+[2025.03.30-22.32.09:890][339]LogSlate: Window 'M_Cel_GlobalInst' being destroyed
+[2025.03.30-22.32.09:947][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.03.30-22.32.10:048][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.03.30-22.32.40:990][866]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.03.30-22.32.40:996][866]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.034
+[2025.03.30-22.32.40:996][866]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Material/CelShading/M_Cel_GlobalInst] ([1] browsable assets)...
+[2025.03.30-22.32.41:017][866]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Material/CelShading/M_Cel_GlobalInst.M_Cel_GlobalInst]
+[2025.03.30-22.32.41:017][866]OBJ SavePackage: Finished generating thumbnails for package [/Game/Material/CelShading/M_Cel_GlobalInst]
+[2025.03.30-22.32.41:027][866]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Material/CelShading/M_Cel_GlobalInst_Auto1
+[2025.03.30-22.32.41:027][866]LogSavePackage: Moving 'M:/Unreal_lEngine_projects/Project_ack003/MaterailLab/MateraiLAbOfSlex/Saved/M_Cel_GlobalInst_Auto13156FA2E4E57E9E342E2A58F29A3C131.tmp' to 'M:/Unreal_lEngine_projects/Project_ack003/MaterailLab/MateraiLAbOfSlex/Saved/Autosaves/Game/Material/CelShading/M_Cel_GlobalInst_Auto1.uasset'
+[2025.03.30-22.32.41:029][866]LogFileHelpers: Auto-saving content packages took 0.034
+[2025.03.30-22.35.30:313][802]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_16.svg'. File could not be found
+[2025.03.30-22.35.41:792][429]LogAssetEditorSubsystem: Opening Asset editor for MaterialFunction /Game/Material/CelShading/MF_CelShading.MF_CelShading
+[2025.03.30-22.35.41:801][429]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.03.30-22.36.36:289][131]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Material/CelShading/M_Cel_GlobalInst.M_Cel_GlobalInst
+[2025.03.30-22.36.36:293][131]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.03.30-22.36.53:264][659]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.03.30-22.36.55:787][748]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.03.30-22.37.39:775][255]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.30-22.37.47:891][560]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2414.866943
+[2025.03.30-22.37.48:010][564]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.30-22.37.48:010][564]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2414.959229, Update Interval: 331.220428
+[2025.03.30-22.37.51:968][626]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.03.30-22.38.01:884][981]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.03.30-22.38.02:948][ 18]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.03.30-22.38.06:549][142]LogMaterial: Display: Material /Game/Material/CelShading/M_Cel_GlobalInst.M_Cel_GlobalInst needed to have new flag set bUsedWithSkeletalMesh !
+[2025.03.30-22.38.06:549][142]LogMaterial: Display: Material /Engine/Transient.M_Cel needed to have new flag set bUsedWithSkeletalMesh !
+[2025.03.30-22.38.06:646][142]MaterialEditorStats: Texture samplers: 0/16
+[2025.03.30-22.38.06:646][142]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.03.30-22.38.06:646][142]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.30-22.38.06:646][142]MaterialEditorStats: Shader Count: 0
+[2025.03.30-22.38.06:646][142]MaterialEditorStats: Preshaders: 25  (27 param fetches, 36 ops)
+[2025.03.30-22.38.06:902][144]MaterialEditorStats: Base pass shader: 275 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.03.30-22.38.06:902][144]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.03.30-22.38.06:902][144]MaterialEditorStats: Texture samplers: 4/16
+[2025.03.30-22.38.06:902][144]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.03.30-22.38.06:902][144]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.30-22.38.06:902][144]MaterialEditorStats: Shader Count: 11
+[2025.03.30-22.38.06:902][144]MaterialEditorStats: Preshaders: 25  (27 param fetches, 36 ops)
+[2025.03.30-22.38.10:904][269]MaterialEditorStats: Base pass shader: 275 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.03.30-22.38.10:904][269]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.03.30-22.38.10:904][269]MaterialEditorStats: Base pass vertex shader: 291 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.03.30-22.38.10:904][269]MaterialEditorStats: Texture samplers: 4/16
+[2025.03.30-22.38.10:904][269]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.03.30-22.38.10:904][269]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.30-22.38.10:904][269]MaterialEditorStats: Shader Count: 17
+[2025.03.30-22.38.10:904][269]MaterialEditorStats: Preshaders: 25  (27 param fetches, 36 ops)
+[2025.03.30-22.39.42:909][309]LogShaderCompilers: Display: ================================================
+[2025.03.30-22.39.42:910][309]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.30-22.39.42:910][309]LogShaderCompilers: Display: Total job queries 274, among them cache hits 67 (24.45%), DDC hits 192 (70.07%), Duplicates 9 (3.28%)
+[2025.03.30-22.39.42:910][309]LogShaderCompilers: Display: Tracking 198 distinct input hashes that result in 171 distinct outputs (86.36%)
+[2025.03.30-22.39.42:910][309]LogShaderCompilers: Display: RAM used: 128.86 KiB of 819.20 MiB budget. Usage: 0.02%
+[2025.03.30-22.39.42:910][309]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.30-22.39.42:910][309]LogShaderCompilers: Display: Shaders Compiled: 6
+[2025.03.30-22.39.42:910][309]LogShaderCompilers: Display: Jobs assigned 6, completed 6 (100%)
+[2025.03.30-22.39.42:910][309]LogShaderCompilers: Display: Time job spent in pending queue: average 0.27 s, longest 0.29 s
+[2025.03.30-22.39.42:910][309]LogShaderCompilers: Display: Job execution time: average 4.25 s, max 4.96 s
+[2025.03.30-22.39.42:910][309]LogShaderCompilers: Display: Job life time (pending + execution): average 4.53 s, max 5.25
+[2025.03.30-22.39.42:910][309]LogShaderCompilers: Display: Shader code size: average 10.399 KiB, min 4.699 KiB, max 16.344 KiB
+[2025.03.30-22.39.42:910][309]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.25 s
+[2025.03.30-22.39.42:910][309]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.03.30-22.39.42:910][309]LogShaderCompilers: Display: Jobs were issued in 3 batches (only local compilation was used), average 2.00 jobs/batch
+[2025.03.30-22.39.42:910][309]LogShaderCompilers: Display: Average processing rate: 1.14 jobs/sec
+[2025.03.30-22.39.42:910][309]LogShaderCompilers: Display: Total thread time: 6.742 s
+[2025.03.30-22.39.42:910][309]LogShaderCompilers: Display: Total thread preprocess time: 7.545 s
+[2025.03.30-22.39.42:910][309]LogShaderCompilers: Display: Percentage time preprocessing: 111.92%
+[2025.03.30-22.39.42:910][309]LogShaderCompilers: Display: Effective parallelization: 1.28 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2025.03.30-22.39.42:910][309]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.03.30-22.39.42:910][309]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 2.31 sec, max 2.31 sec, min 2.31 sec)
+[2025.03.30-22.39.42:910][309]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 0.98 sec, max 0.98 sec, min 0.98 sec)
+[2025.03.30-22.39.42:910][309]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.95 sec, max 0.95 sec, min 0.95 sec)
+[2025.03.30-22.39.42:910][309]LogShaderCompilers: Display:                                                FAnisotropyPS (compiled    1 times, average 0.65 sec, max 0.65 sec, min 0.65 sec)
+[2025.03.30-22.39.42:910][309]LogShaderCompilers: Display:                                                FAnisotropyVS (compiled    1 times, average 0.62 sec, max 0.62 sec, min 0.62 sec)
+[2025.03.30-22.39.42:910][309]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.03.30-22.39.42:910][309]LogShaderCompilers: Display:                                             FDebugViewModePS - 34.32% of total time (compiled    1 times, average 2.31 sec, max 2.31 sec, min 2.31 sec)
+[2025.03.30-22.39.42:911][309]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 14.58% of total time (compiled    1 times, average 0.98 sec, max 0.98 sec, min 0.98 sec)
+[2025.03.30-22.39.42:911][309]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.11% of total time (compiled    1 times, average 0.95 sec, max 0.95 sec, min 0.95 sec)
+[2025.03.30-22.39.42:911][309]LogShaderCompilers: Display:                                                FAnisotropyPS - 9.59% of total time (compiled    1 times, average 0.65 sec, max 0.65 sec, min 0.65 sec)
+[2025.03.30-22.39.42:911][309]LogShaderCompilers: Display:                                                FAnisotropyVS - 9.23% of total time (compiled    1 times, average 0.62 sec, max 0.62 sec, min 0.62 sec)
+[2025.03.30-22.39.42:911][309]LogShaderCompilers: Display: === Material stats ===
+[2025.03.30-22.39.42:911][309]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.03.30-22.39.42:911][309]LogShaderCompilers: Display: Materials Translated:    170
+[2025.03.30-22.39.42:911][309]LogShaderCompilers: Display: Material Total Translate Time: 0.35 s
+[2025.03.30-22.39.42:911][309]LogShaderCompilers: Display: Material Translation Only: 0.11 s (31%)
+[2025.03.30-22.39.42:911][309]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.03.30-22.39.42:911][309]LogShaderCompilers: Display: Material Cache Hits: 27 (16%)
+[2025.03.30-22.39.42:911][309]LogShaderCompilers: Display: ================================================
