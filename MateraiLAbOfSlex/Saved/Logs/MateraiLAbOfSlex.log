@@ -1731,3 +1731,18 @@ Sampler Limit: 32
 [2025.03.30-21.40.13:154][626]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 659.982605
 [2025.03.30-21.40.13:246][631]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.03.30-21.40.13:246][631]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 660.056396, Update Interval: 309.095123
+[2025.03.30-21.41.48:348][706]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.30-21.41.48:420][706]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/S0/M312ZSYK1SYKR9ACRG55EJ
+[2025.03.30-21.41.48:421][706]LogSavePackage: Moving 'M:/Unreal_lEngine_projects/Project_ack003/MaterailLab/MateraiLAbOfSlex/Saved/M312ZSYK1SYKR9ACRG55EJAA604FC645465BA94C2A98B03ABAED50.tmp' to 'M:/Unreal_lEngine_projects/Project_ack003/MaterailLab/MateraiLAbOfSlex/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/S0/M312ZSYK1SYKR9ACRG55EJ.uasset'
+[2025.03.30-21.41.48:444][706]LogFileHelpers: InternalPromptForCheckoutAndSave took 96.723 ms
+[2025.03.30-21.41.48:510][706]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.30-21.41.48:510][706]LogContentValidation: Enabled validators:
+[2025.03.30-21.41.48:510][706]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.30-21.41.48:510][706]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.30-21.41.48:510][706]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.30-21.41.48:510][706]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.30-21.41.48:510][706]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.30-21.41.48:510][706]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.30-21.41.48:510][706]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2025.03.30-21.41.48:510][706]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2025.03.30-21.41.48:511][706]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
